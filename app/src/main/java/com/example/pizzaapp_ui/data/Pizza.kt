@@ -63,4 +63,10 @@ val pizzaList = listOf(
         "crisp capsicum, succulent mushrooms and fresh tomatoes",
         "£14.25"
     ),
+     Pizza(
+        R.drawable.two,
+        "Fresh Farm House",
+        "crisp capsicum, succulent mushrooms and fresh tomatoes",
+        "£14.25"
+    ),
 )
